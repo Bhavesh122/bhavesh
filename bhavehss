@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Bhavesh Website</title>
+    <style>
+        h2{
+            color:brown;
+        }
+    </style>
+</head>
+<body>
+    <form action=" ">
+    <h1 style=" color: blue;"> Welcome to Website  </h1>
+    <h1> Type your details </h1>
+    <p> Name : <input type ="text" name="name " ><required></required></p>
+    <p> Gender:<input type=" text" gender= "gender"></p>
+    <p> When did you start learning webdevelopment: <input type="date">
+        <br>
+
+
+
+
+
+
+        <br>
+
+    How good are you in web development  :<textarea col="1000" row="100" ></textarea>
+    <br>
+    <br>
+    <p> Any Secret you want to share : <input type="password"></p>
+    <h1> Best Video for Web Development </h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jRAZlTEZi9I?start=1357" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br>
+    <br>
+    <p> Select any option from given below </p>
+    <select name =" hi "  bhavesh =" hihibhhhhh">
+     <option value= " Good Video "> Good video </option> 
+     <option value= " Bad Video "> Bad video </option> 
+     <option value= " I will recommend you some other good video "> There are better videos than this   </option> 
+    </select>
+    </p>
+    <p> 
+        Enter video name <input type="text"></p>
+        <p> Give your feedback about the website : <input type="text" ></p>
+        
+<a href="https://www.google.co.in/" target= "_blank"> For more information  :</a>
+<br>
+<br>
+
+
+<a href="second.html" target= "_blank"> For 2nd  website   :</a>
+<br>
+<br>
+
+
+<input type="submit">
+<br>
+  
+</body>
+</html>
